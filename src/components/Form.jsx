@@ -106,7 +106,7 @@ function Form() {
           value={cityName}
         />
         <span className={styles.flag}>
-          <img src={`https://flagsapi.com/${emoji}/flat/32.png`} />
+          {emoji && <img src={`https://flagsapi.com/${emoji}/flat/32.png`} />}
         </span>
       </div>
 

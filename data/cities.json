@@ -1,30 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "https://flagsapi.com/PT/flat/48.png",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": "73930385"
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "https://flagsapi.com/ES/flat/48.png",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": "17806751"
-    },
-    {
       "cityName": "Berlin",
       "country": "Germany",
       "emoji": "https://flagsapi.com/DE/flat/48.png",
@@ -49,63 +25,27 @@
       }
     },
     {
-      "id": "5f9c",
-      "cityName": "Kecamatan Sukaresmi",
+      "id": "87ef",
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "https://flagsapi.com/ES/flat/48.png",
+      "date": "2025-04-11T12:18:36.764Z",
+      "notes": "",
+      "position": {
+        "lat": "40.396764305572056",
+        "lng": "-3.6474609375000004"
+      }
+    },
+    {
+      "id": "8faf",
+      "cityName": "Depok",
       "country": "Indonesia",
       "emoji": "https://flagsapi.com/ID/flat/48.png",
-      "date": "2025-04-10T04:27:06.239Z",
-      "notes": "adasd",
-      "position": {
-        "lat": "-6.730075707109153",
-        "lng": "107.07275390625001"
-      }
-    },
-    {
-      "id": "a4b5",
-      "cityName": "Karliova",
-      "country": "Turkiye",
-      "emoji": "https://flagsapi.com/TR/flat/48.png",
-      "date": "2025-04-10T04:29:32.046Z",
-      "notes": "tes",
-      "position": {
-        "lat": "39.402244340292775",
-        "lng": "40.93505859375001"
-      }
-    },
-    {
-      "id": "c23e",
-      "cityName": "Chamwino",
-      "country": "Tanzania, the United Republic of",
-      "emoji": "https://flagsapi.com/TZ/flat/48.png",
-      "date": "2025-04-10T04:30:41.101Z",
+      "date": "2025-04-11T13:56:50.298Z",
       "notes": "",
       "position": {
-        "lat": "-6.860985433763648",
-        "lng": "35.55175781250001"
-      }
-    },
-    {
-      "id": "ea0e",
-      "cityName": "Bayinguoleng Menggu Zizhizhou",
-      "country": "China",
-      "emoji": "https://flagsapi.com/CN/flat/48.png",
-      "date": "2025-04-10T04:31:46.326Z",
-      "notes": "",
-      "position": {
-        "lat": "38.685509760012025",
-        "lng": "85.95703125000001"
-      }
-    },
-    {
-      "id": "b2f3",
-      "cityName": "Osecina",
-      "country": "Serbia",
-      "emoji": "https://flagsapi.com/RS/flat/48.png",
-      "date": "2025-04-10T04:32:26.400Z",
-      "notes": "ahaha",
-      "position": {
-        "lat": "44.37098696297173",
-        "lng": "19.643554687500004"
+        "lat": "-6.424483546180726",
+        "lng": "106.89697265625001"
       }
     }
   ]
